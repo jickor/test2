@@ -1,0 +1,18 @@
+/*Downloaded from https://www.codeseek.co/ionelcp/random-quotes-from-the-poem-evening-star-mihai-eminescu-YpdVzM */
+   #getnumber{
+        font-size: 120%;
+        font-style: italic;
+       }
+       .main{
+        margin-top: 50px;
+        background: #fff;
+        padding: 15px;
+        border-radius: 5px;
+       }
+       body{
+        background: url("http://www.desktopwallpaperhd.net/wallpapers/12/1/background-birds-stills-122449.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+       }
